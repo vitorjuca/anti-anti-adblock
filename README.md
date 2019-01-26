@@ -1,6 +1,6 @@
 # Anti Anti Adblock
 
-This adblock runs on oglobo.com like a chrome plugin
+This adblock runs on http://oglobo.globo.com like a chrome plugin
 
 ## Install
 
