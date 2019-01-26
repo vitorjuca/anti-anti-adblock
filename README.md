@@ -2,6 +2,8 @@
 
 This adblock runs on http://oglobo.globo.com like a chrome plugin
 
+Credits to: https://github.com/loiacon
+
 ## Install
 
 Clone the repository `git clone https://github.com/vitorjuca/anti-anti-adblock.git`
